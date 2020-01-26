@@ -1,0 +1,14 @@
+C:\MySpace\MySite\DEShaw.PhotoUploader.Cryptography\CryptoUtil\bin\Debug\CryptoUtil.exe
+C:\MySpace\MySite\DEShaw.PhotoUploader.Cryptography\CryptoUtil\bin\Debug\CryptoUtil.pdb
+C:\MySpace\MySite\DEShaw.PhotoUploader.Cryptography\CryptoUtil\bin\Debug\DEShaw.PhotoUploader.Cryptography.dll
+C:\MySpace\MySite\DEShaw.PhotoUploader.Cryptography\CryptoUtil\bin\Debug\DEShaw.PhotoUploader.Cryptography.pdb
+C:\MySpace\MySite\DEShaw.PhotoUploader.Cryptography\CryptoUtil\obj\x86\Debug\CryptoUtil.csprojResolveAssemblyReference.cache
+C:\MySpace\MySite\DEShaw.PhotoUploader.Cryptography\CryptoUtil\obj\x86\Debug\CryptoUtil.exe
+C:\MySpace\MySite\DEShaw.PhotoUploader.Cryptography\CryptoUtil\obj\x86\Debug\CryptoUtil.pdb
+E:\Personal\Shaw\bkp\bkp\DEShaw.PhotoUploader.Cryptography\CryptoUtil\bin\Debug\CryptoUtil.exe
+E:\Personal\Shaw\bkp\bkp\DEShaw.PhotoUploader.Cryptography\CryptoUtil\bin\Debug\CryptoUtil.pdb
+E:\Personal\Shaw\bkp\bkp\DEShaw.PhotoUploader.Cryptography\CryptoUtil\obj\x86\Debug\CryptoUtil.csprojResolveAssemblyReference.cache
+E:\Personal\Shaw\bkp\bkp\DEShaw.PhotoUploader.Cryptography\CryptoUtil\obj\x86\Debug\CryptoUtil.exe
+E:\Personal\Shaw\bkp\bkp\DEShaw.PhotoUploader.Cryptography\CryptoUtil\obj\x86\Debug\CryptoUtil.pdb
+E:\Personal\Shaw\bkp\bkp\DEShaw.PhotoUploader.Cryptography\CryptoUtil\bin\Debug\NS.Cryptography.dll
+E:\Personal\Shaw\bkp\bkp\DEShaw.PhotoUploader.Cryptography\CryptoUtil\bin\Debug\NS.Cryptography.pdb

@@ -1,0 +1,4 @@
+E:\Personal\Shaw\bkp\bkp\DEShaw.PhotoUploader.Cryptography\DEShaw.PhotoUploader.Cryptography\bin\Debug\NS.Cryptography.dll
+E:\Personal\Shaw\bkp\bkp\DEShaw.PhotoUploader.Cryptography\DEShaw.PhotoUploader.Cryptography\bin\Debug\NS.Cryptography.pdb
+E:\Personal\Shaw\bkp\bkp\DEShaw.PhotoUploader.Cryptography\DEShaw.PhotoUploader.Cryptography\obj\Debug\NS.Cryptography.dll
+E:\Personal\Shaw\bkp\bkp\DEShaw.PhotoUploader.Cryptography\DEShaw.PhotoUploader.Cryptography\obj\Debug\NS.Cryptography.pdb
